@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-mint-update-notifier"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS mint-update-notifier component"
+
+[lib]
+name = "mint_update_notifier"
+path = "src/lib.rs"
