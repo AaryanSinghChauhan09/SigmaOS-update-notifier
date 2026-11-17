@@ -3,12 +3,12 @@ name = "SigmaOS-mint-update-notifier"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "mint-update-notifier component"
+description = "Update notifier for SigmaOS inspired by Linux Mint"
 upstream = []
 
 [contract]
 provides = ["component"]
-depends_on = []
+depends_on = ["SigmaOS-system"]
 
 [maturity]
 status = "Scaffold"
