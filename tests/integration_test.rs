@@ -1,8 +1,8 @@
-// Integration test for SigmaOS-mint-update-notifier
+// Integration test for SigmaOS-update-notifier
 // Verifies the crate builds and links as a dependency.
 #![allow(unused_imports)]
 
-use mint_update_notifier as _;
+use sigmaos_update_notifier as _;
 
 #[test]
 fn crate_links_and_runs() {

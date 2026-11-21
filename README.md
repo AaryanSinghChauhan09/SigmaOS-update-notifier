@@ -1,4 +1,4 @@
-# SigmaOS-mint-update-notifier
+# SigmaOS-update-notifier
 
 Update notifier for SigmaOS inspired by Linux Mint
 

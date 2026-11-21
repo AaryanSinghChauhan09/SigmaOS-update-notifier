@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-mint-update-notifier"
+name = "SigmaOS-update-notifier"
 tier = 2
 stability = "beta"
 language = "rust"

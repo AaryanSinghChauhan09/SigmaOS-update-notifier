@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-mint-update-notifier: mint update notifier component model.
+//! SigmaOS-update-notifier: mint update notifier component model.
 //!
 //! Real implementation: notifiers, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
